@@ -1,0 +1,1 @@
+web: gunicorn recipe_tracker.wsgi
